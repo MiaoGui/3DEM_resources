@@ -48,10 +48,17 @@ https://emdataresource.org/emsoftware.html
     - Phenix. https://phenix-online.org
     - DeepTracer. https://deeptracer.uw.edu/home
 
--Tomography
+- Tomography
     - IMOD. https://bio3d.colorado.edu/imod/
+    - PEET. https://bio3d.colorado.edu/PEET/
     - Dynamo. https://wiki.dynamo.biozentrum.unibas.ch/w/index.php/Main_Page
     - Wrap/M. http://www.warpem.com/warp/
 
 - Bioinformatics
+    - A collection on SIB. https://www.expasy.org
+    - PSIPRED. http://bioinf.cs.ucl.ac.uk/psipred/
+    - SWISS-MODEL. https://swissmodel.expasy.org
+    - Robetta. https://robetta.bakerlab.org
+    - AlphaFold. https://alphafold.ebi.ac.uk
+    - Clustal Omega. https://www.ebi.ac.uk/Tools/msa/clustalo/
     - 
