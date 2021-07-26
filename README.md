@@ -48,6 +48,12 @@ https://emdataresource.org/emsoftware.html
     - Phenix. https://phenix-online.org
     - DeepTracer. https://deeptracer.uw.edu/home
 
+- Structural prediction
+    - PSIPRED (secondary structure prediction). http://bioinf.cs.ucl.ac.uk/psipred/
+    - SWISS-MODEL. https://swissmodel.expasy.org
+    - Robetta. https://robetta.bakerlab.org
+    - AlphaFold. https://alphafold.ebi.ac.uk
+
 - Tomography
     - IMOD. https://bio3d.colorado.edu/imod/
     - PEET. https://bio3d.colorado.edu/PEET/
@@ -56,9 +62,24 @@ https://emdataresource.org/emsoftware.html
 
 - Bioinformatics
     - A collection on SIB. https://www.expasy.org
-    - PSIPRED. http://bioinf.cs.ucl.ac.uk/psipred/
-    - SWISS-MODEL. https://swissmodel.expasy.org
-    - Robetta. https://robetta.bakerlab.org
-    - AlphaFold. https://alphafold.ebi.ac.uk
-    - Clustal Omega. https://www.ebi.ac.uk/Tools/msa/clustalo/
-   
+    - Clustal Omega (sequence alignment). https://www.ebi.ac.uk/Tools/msa/clustalo/
+    - ESPript (coloring sequence alignment). https://espript.ibcp.fr/ESPript/ESPript/index.php
+    - pfam (domain prediction). http://pfam.xfam.org
+    - SMART (domain prediction). http://smart.embl.de
+    - ConSurf (domain prediction). https://consurf.tau.ac.il
+    - CCCP (coiled coil generator). https://grigoryanlab.org/cccp/
+    - HOLE (hole parameters of a channel). http://www.holeprogram.org
+    - GLYCAM (glycan prediction). http://glycam.org
+ 
+- Other useful database/tools
+    - HUGO (Human gene nomenclature). https://www.genenames.org
+    - OMIM (Human Genes and Genetic Disorders). https://www.omim.org
+    - The Human Protein Atlas. https://www.proteinatlas.org
+    - NeXtProt (human protein function annotation). https://www.nextprot.org
+    - TCGA. https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga
+    - ClinVar. https://www.ncbi.nlm.nih.gov/clinvar/
+    - ConVarT (orthologous variants (OrthoVars) between species. https://convart.org
+    - OrthoMCL (orthologous). https://orthomcl.org/orthomcl/app/
+    - EVcouplings (evolutionary sequence covariation). https://evcouplings.org
+    - DepMap (the cancer dependency map). https://depmap.org/portal/
+    - Human Intermediate Filament Database. http://www.interfil.org/proteins.php
