@@ -61,4 +61,4 @@ https://emdataresource.org/emsoftware.html
     - Robetta. https://robetta.bakerlab.org
     - AlphaFold. https://alphafold.ebi.ac.uk
     - Clustal Omega. https://www.ebi.ac.uk/Tools/msa/clustalo/
-    - 
+   
