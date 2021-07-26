@@ -17,9 +17,8 @@ History, software, lecture and more
 
 ## softwares
 
-- [A list of the 3DEM softwares](https://emdataresource.org/emsoftware.html).
-
-- Frequently used softwares:
+- [A list of the 3DEM softwares on EMDB](https://emdataresource.org/emsoftware.html).
+- [A list of the 3DEM softwares on Wiki](https://en.wikibooks.org/wiki/Software_Tools_For_Molecular_Microscopy).
 - Image processing
     - [SerialEM](https://bio3d.colorado.edu/SerialEM/). [SerialEM by UMASS](https://readthedocs.org/projects/sphinx-emdocs/downloads/pdf/latest/).
     - [MotionCor2](https://hpc.nih.gov/apps/RELION/MotionCor2-UserManual-05-03-2018.pdf).
@@ -29,7 +28,7 @@ History, software, lecture and more
     - [DeepEMhancer](https://github.com/rsanchezgarc/deepEMhancer).
     - [CryoDRGN](http://cb.csail.mit.edu/cb/cryodrgn/).
     
-- Model building and visualization
+- Modeling and visualization
     - [Coot](https://www2.mrc-lmb.cam.ac.uk/personal/pemsley/coot/). 
     - [UCSF Chimera](https://www.cgl.ucsf.edu/chimera/).
     - [UCSF ChimeraX](https://www.cgl.ucsf.edu/chimerax/).
