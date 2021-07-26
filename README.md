@@ -51,23 +51,25 @@ History, software, lecture and more
 - Bioinformatics
     - [A collection on SIB](https://www.expasy.org).
     - [Clustal Omega](https://www.ebi.ac.uk/Tools/msa/clustalo/) - sequence alignment. 
-    - ESPript (coloring sequence alignment). https://espript.ibcp.fr/ESPript/ESPript/index.php
-    - pfam (domain prediction). http://pfam.xfam.org
-    - SMART (domain prediction). http://smart.embl.de
-    - ConSurf (domain prediction). https://consurf.tau.ac.il
-    - CCCP (coiled coil generator). https://grigoryanlab.org/cccp/
-    - HOLE (hole parameters of a channel). http://www.holeprogram.org
-    - GLYCAM (glycan prediction). http://glycam.org
+    - [ESPript](https://espript.ibcp.fr/ESPript/ESPript/index.php) - coloring sequence alignment. 
+    - [pfam](http://pfam.xfam.org) - domain prediction. 
+    - [SMART](http://smart.embl.de) - domain prediction. 
+    - [ConSurf](https://consurf.tau.ac.il) - domain prediction. 
+    - [CCCP](https://grigoryanlab.org/cccp/) - coiled coil parameters and generator
+    - [HOLE](http://www.holeprogram.org) - hole parameters of a channel. 
+    - [GLYCAM](http://glycam.org) - glycan prediction. 
  
 - Other useful database/tools
-    - HUGO (Human gene nomenclature). https://www.genenames.org
-    - OMIM (Human Genes and Genetic Disorders). https://www.omim.org
-    - The Human Protein Atlas. https://www.proteinatlas.org
-    - NeXtProt (human protein function annotation). https://www.nextprot.org
-    - TCGA. https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga
-    - ClinVar. https://www.ncbi.nlm.nih.gov/clinvar/
-    - ConVarT (orthologous variants (OrthoVars) between species. https://convart.org
-    - OrthoMCL (orthologous). https://orthomcl.org/orthomcl/app/
-    - EVcouplings (evolutionary sequence covariation). https://evcouplings.org
-    - DepMap (the cancer dependency map). https://depmap.org/portal/
-    - Human Intermediate Filament Database. http://www.interfil.org/proteins.php
+    - [HUGO](https://www.genenames.org) - Human gene nomenclature. 
+    - [OMIM](https://www.omim.org) - Human Genes and Genetic Disorders. 
+    - [The Human Protein Atlas](https://www.proteinatlas.org).
+    - [NeXtProt](https://www.nextprot.org) - human protein function annotation. 
+    - [TCGA](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga) - The Cancer Genome Atlas.
+    - [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) - Information about genomic variation and its relationship to human health.
+    - [ConVarT](https://convart.org) - orthologous variants (OrthoVars) between species. 
+    - [OrthoMCL](https://orthomcl.org/orthomcl/app/) - grouping orthologous protein sequences.
+    - [EVcouplings](https://evcouplings.org) - evolutionary sequence covariation. 
+    - [DepMap](https://depmap.org/portal/) - the cancer dependency map. 
+    - [Phytozome](https://phytozome.jgi.doe.gov/pz/portal.html) - JGI-sequenced plant genomes at RNA level.
+    - [ChlamyFPV5](http://chlamyfp.org) - Annotation of Chlamydomonas proteins.
+    - [Human Intermediate Filament Database](http://www.interfil.org/proteins.php).
